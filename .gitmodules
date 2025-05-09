@@ -1,18 +1,18 @@
 [submodule "exercise_1_WebClientDevelopment"]
-	path = exercise_1_WebClientDevelopment
+	path = exercise_1_WebClientDevelopment @ 154abab
 	url = https://github.com/RIYORIALDY/WebClientDevelopment.git
 [submodule "exercise_2_WebClientDevelopment"]
-	path = exercise_2_WebClientDevelopment
+	path = exercise_2_WebClientDevelopment @ 154abab
 	url = https://github.com/RIYORIALDY/WebClientDevelopment.git
 [submodule "exercise_3_WebClientDevelopment"]
-	path = exercise_3_WebClientDevelopment
+	path = exercise_3_WebClientDevelopment @ 154abab
 	url = https://github.com/RIYORIALDY/WebClientDevelopment.git
 [submodule "exercise_4_WEB-PROTOFOLIO"]
-	path = exercise_4_WEB-PROTOFOLIO
+	path = exercise_4_WEB-PROTOFOLIO @ 9623697
 	url = https://github.com/RIYORIALDY/WEB-PROTOFOLIO.git
 [submodule "exercise_5_Pokemon-Web"]
-	path = exercise_5_Pokemon-Web
+	path = exercise_5_Pokemon-Web @ 968052b
 	url = https://github.com/RIYORIALDY/Pokemon-Web.git
 [submodule "exercise_6_Pok-mon"]
-	path = exercise_6_Pok-mon
+	path = exercise_6_Pok-mon @ 2fd2319
 	url = https://github.com/RIYORIALDY/Pok-mon.git
