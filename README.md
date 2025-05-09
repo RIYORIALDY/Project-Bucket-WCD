@@ -1,4 +1,4 @@
-# Web Client Development Bucket
+# Project-Bucket-WCD
 
 A structured learning repository containing various web development projects and exercises organized by sessions.
 
