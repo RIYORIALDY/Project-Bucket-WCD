@@ -1,18 +1,18 @@
-[submodule "exercise_1_JavaScript-TypeScript-exerciseBasics"]
-	path = exercise_1_JavaScript-TypeScript-Basics
+[submodule "exercise_1_WebClientDevelopment"]
+	path = exercise_1_WebClientDevelopment
 	url = https://github.com/RIYORIALDY/WebClientDevelopment.git
-[submodule "exercise_2_Code-Versioning-System-Git-Github"]
-	path = exercise_2_Code-Versioning-System-Git-Github
+[submodule "exercise_2_WebClientDevelopment"]
+	path = exercise_2_WebClientDevelopment
 	url = https://github.com/RIYORIALDY/WebClientDevelopment.git
-[submodule "exercise_3_Web-Client-Development"]
-	path = exercise_3_Web-Client-Development
+[submodule "exercise_3_WebClientDevelopment"]
+	path = exercise_3_WebClientDevelopment
 	url = https://github.com/RIYORIALDY/WebClientDevelopment.git
-[submodule "exercise_4_React-Tailwind"]
-	path = exercise_4_React-Tailwind
+[submodule "exercise_4_WEB-PROTOFOLIO"]
+	path = exercise_4_WEB-PROTOFOLIO
 	url = https://github.com/RIYORIALDY/WEB-PROTOFOLIO.git
-[submodule "exercise_5_Pokemon-App-React-Hooks"]
-	path = exercise_5_Pokemon-App-React-Hooks
+[submodule "exercise_5_Pokemon-Web"]
+	path = exercise_5_Pokemon-Web
 	url = https://github.com/RIYORIALDY/Pokemon-Web.git
-[submodule "exercise_6_Pokemon-App-State-Management"]
-	path = exercise_6_Pokemon-App-State-Management
+[submodule "exercise_6_Pok-mon"]
+	path = exercise_6_Pok-mon
 	url = https://github.com/RIYORIALDY/Pok-mon.git
